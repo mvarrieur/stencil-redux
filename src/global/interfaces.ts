@@ -11,6 +11,6 @@ export interface Store<S = any, A extends ReduxAction = AnyAction> {
 /**
  * @deprecated See README.md for new usage.
  */
-export type Action = (...args: any[]) => any;
+// export type Action = (...args: any[]) => any;
 
 export { Unsubscribe };
