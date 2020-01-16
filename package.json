@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Stencil Redux - A simple redux-connector for Stencil-built web components",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/esm/es5/index.js",
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "files": [
