@@ -1,3 +1,5 @@
+# Notice: This package is deprecated. The new version of [@stencil/redux](https://github.com/ionic-team/stencil-redux) no longer requires this fix.
+
 ## Stencil Redux
 
 A simple redux connector for Stencil-built web components inspired by [`react-redux`](https://github.com/reduxjs/react-redux).
